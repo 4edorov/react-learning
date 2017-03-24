@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:4edorov/react-learning.git"
+  },
   "author": "Alexander Fedorov",
   "license": "MIT",
   "dependencies": {
@@ -14,5 +18,11 @@
     "express": "^4.15.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-env": "^1.2.2",
+    "babel-preset-react": "^6.23.0",
+    "babel-standalone": "^6.23.1"
   }
 }

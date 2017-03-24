@@ -16,4 +16,5 @@ TODO:
 `npm install express --save-dev`
 
 - edit server.js & index.html to tune server;
-= 
+- install `babel` (standalone);
+- 
