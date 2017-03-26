@@ -17,4 +17,5 @@ TODO:
 
 - edit server.js & index.html to tune server;
 - install `babel` (standalone);
-- 
+- use `EventEmitter`;
+      
